@@ -52,21 +52,20 @@ GET /notifications
 
 ## How to Run
 
-1. Install dependencies  
+Go to question1 folder  
+cd question1  
 
-npm install
+Install dependencies  
+npm install  
 
+Start server  
+node index.js  
 
-2. Start server  
-
-node index.js
-
-
-3. Test using Postman  
-- /depots  
-- /vehicles  
-- /schedule  
-- /notifications  
+Test using Postman  
+/depots  
+/vehicles  
+/schedule  
+/notifications  
 
 ---
 
