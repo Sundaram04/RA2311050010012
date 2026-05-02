@@ -1,0 +1,18 @@
+[
+  {
+    "level": "info",
+    "message": "Fetching depots data"
+  },
+  {
+    "level": "info",
+    "message": "Fetching vehicles data"
+  },
+  {
+    "level": "info",
+    "message": "Applying scheduling logic"
+  },
+  {
+    "level": "info",
+    "message": "Schedule generated successfully"
+  }
+]
